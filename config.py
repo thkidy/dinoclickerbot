@@ -1,0 +1,2 @@
+TOKEN = '6450489564:AAGNwKUTdJUdOUTF-mqpiWPKFXl_jmDPX0c'
+BOT_NICKNAME = 'Dinosaur_clickerbot'
